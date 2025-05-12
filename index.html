@@ -383,6 +383,31 @@
         });
     });
 </script>
+ <script>
+<script>
+window.onload = function() {
+  const alertBox = document.createElement('div');
+  alertBox.innerHTML = '📢 <b>Admissions are open!</b> <a href="https://dte.mponline.gov.in" target="_blank" style="color: yellow; text-decoration: underline;">Apply here</a>';
+  alertBox.style.position = 'fixed';
+  alertBox.style.top = '10px';
+  alertBox.style.left = '50%';
+  alertBox.style.transform = 'translateX(-50%)';
+  alertBox.style.backgroundColor = '#28a745';
+  alertBox.style.color = 'white';
+  alertBox.style.padding = '12px 18px';
+  alertBox.style.borderRadius = '6px';
+  alertBox.style.boxShadow = '0 4px 8px rgba(0,0,0,0.2)';
+  alertBox.style.zIndex = 9999;
+  document.body.appendChild(alertBox);
+
+
+  setTimeout(() => {
+    alertBox.remove();
+  }, 10000);
+};
+
+</script>
+</script>
 
 
 
