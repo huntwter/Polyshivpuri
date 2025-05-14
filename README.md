@@ -1,40 +1,37 @@
-# College Website
-### Welcome to the new official website project of IIIT-Vadodara. 
+# Polytechnic College Shivpuri Website
+### Welcome to the new official website project of GPC Shivpuri. 
 
-[![Join the chat at https://gitter.im/iiitv/college_website](https://badges.gitter.im/iiitv/college_website.svg)](https://gitter.im/iiitv/college_website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-We are now live as [official institute website](http://iiitvadodara.ac.in/).
+We are now live as [official institute website](http://itx-me-king.github.io/polyshivpuri).
 
-**NOTE**: This repository is no longer related to the live college website, therefore the requests made here for content addition/modifiation are ineffective.
+
 
 
 #### Navigation Scheme
 * Institute
     * About
-    * Director's Message
-    * Board of Governors
-    * Society Members
-    * Academic Council
-    * Finance Committee
-    * RTI
-    * MOU
-    * Linkages
-        * DA-IICT
-        * GSFC
-        * GERMI
-        * TCS
+    * Principal's Message
+    * Notice board
+    * Academic programs
+    * Student Services
 * Academics
-    * Bachelor of Technology
+    * Diploma
         * Computer Science and Engineering
-        * Information Technology
-    * Master of Technology
-        * Computer Science and Engineering
-    * Doctor of Philosophy
+        * Mechanical engineering
+        * Electrical Engineering
+        * Electronics & Telecommunication engineering
+      * AICTE BASED CURRICULUM
+        * CSE
+        * M.E.
+        * E.E
+        * E.T
+    * Result
     * Academic Calender
 * Admissions
-    * Bachelor of Technology
-    * Master of Technology
-    * Doctor of Philosophy
+    * CSE
+    * ME
+    * EE
+    * ET
 * People
     * Faculty
     * Visiting Faculty
@@ -42,9 +39,7 @@ We are now live as [official institute website](http://iiitvadodara.ac.in/).
 * More
     * FAQs
     * Students' Corner
-    * Moodle
     * Library
-    * Invited Talks
 * Career
 * Photo Gallery
 
