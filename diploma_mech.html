@@ -215,8 +215,8 @@
         }
     });
 })                
-        window.onload = function () {
-  
+    window.onload = function () {
+
   const popup = document.createElement("div");
   popup.style.position = "fixed";
   popup.style.top = "0";
@@ -229,7 +229,6 @@
   popup.style.alignItems = "center";
   popup.style.zIndex = "9999";
 
- 
   const content = document.createElement("div");
   content.style.backgroundColor = "#ffffff";
   content.style.padding = "35px";
@@ -238,14 +237,12 @@
   content.style.maxWidth = "400px";
   content.style.boxShadow = "0 10px 25px rgba(0,0,0,0.3)";
   content.style.animation = "popupFadeIn 0.5s ease";
-
- 
+  content.style.position = "relative"; 
   const heading = document.createElement("h2");
-  heading.textContent = "🎓 Admissions Open for Diploma in Mechanical engineering";
+  heading.textContent = "🎓 Admissions Open for Diploma in Mechanical Engineering";
   heading.style.marginBottom = "15px";
   heading.style.fontSize = "20px";
   heading.style.color = "#333";
-
 
   const message = document.createElement("p");
   message.textContent = "Limited seats available. Apply now and start your journey!";
@@ -253,7 +250,6 @@
   message.style.fontSize = "16px";
   message.style.color = "#555";
 
- 
   const button = document.createElement("button");
   button.textContent = "Apply Today";
   button.style.padding = "12px 24px";
@@ -269,12 +265,28 @@
   button.onmouseout = () => button.style.backgroundColor = "#28a745";
 
   button.onclick = function () {
-    popup.remove(); 
-    
+    popup.remove();
     window.open("https://dte.mponline.gov.in", "_blank");
   };
 
+ 
+  const closeButton = document.createElement("button");
+  closeButton.textContent = "×";
+  closeButton.style.position = "absolute";
+  closeButton.style.top = "10px";
+  closeButton.style.right = "10px";
+  closeButton.style.fontSize = "24px";
+  closeButton.style.backgroundColor = "transparent";
+  closeButton.style.border = "none";
+  closeButton.style.color = "#333";
+  closeButton.style.cursor = "pointer";
+  closeButton.style.fontWeight = "bold";
 
+  closeButton.onclick = function () {
+    popup.remove();
+  };
+
+  content.appendChild(closeButton);
   content.appendChild(heading);
   content.appendChild(message);
   content.appendChild(button);
