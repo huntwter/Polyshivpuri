@@ -72,58 +72,72 @@
                        data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                 </div>
 <div style="
+  position: absolute;
+  top: 20px;
+  right: 30px;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
   gap: 10px;
-  margin-top: 60px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  z-index: 999;
 ">
   <style>
-    .login-button {
-      padding: 6px 14px;
+    .login-btn {
+      padding: 5px 12px;
       background-color: transparent;
       color: #0f696b;
       border: 1px solid #0f696b;
       border-radius: 6px;
-      font-size: 14px;
+      font-size: 13px;
       cursor: pointer;
       display: flex;
       align-items: center;
-      gap: 6px;
-      transition: background-color 0.2s ease, color 0.2s ease;
+      gap: 5px;
+      transition: all 0.2s ease-in-out;
     }
 
-    .login-button:hover {
+    .login-btn:hover {
       background-color: #0f696b;
       color: white;
     }
 
+    @media (max-width: 768px) {
+      .login-btn {
+        font-size: 12px;
+        padding: 4px 10px;
+      }
+    }
+
     @media (max-width: 480px) {
-      .login-buttons {
-        flex-direction: column !important;
-        align-items: center;
+      div[style*='position: absolute'] {
+        position: relative !important;
+        justify-content: center !important;
+        margin-top: 10px;
+        right: 0 !important;
       }
     }
   </style>
 
   <a href="student-login.html" style="text-decoration: none;">
-    <button class="login-button">
+    <button class="login-btn">
       <i class="fas fa-user-graduate"></i> Student Login
     </button>
   </a>
 
   <a href="faculty-login.html" style="text-decoration: none;">
-    <button class="login-button">
+    <button class="login-btn">
       <i class="fas fa-chalkboard-teacher"></i> Faculty Login
     </button>
   </a>
 
   <a href="admin-login.html" style="text-decoration: none;">
-    <button class="login-button">
+    <button class="login-btn">
       <i class="fas fa-user-shield"></i> Admin Login
     </button>
   </a>
 </div>
+
+
 
 
                  
