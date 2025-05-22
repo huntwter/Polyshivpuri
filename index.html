@@ -36,6 +36,8 @@
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
 </head>
 
 <body id="home">
@@ -69,44 +71,59 @@
                     <a href="#" data-toggle="popover" title="Email" data-content="Polyshivpuri@gmail.com"
                        data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                 </div>
- <div style="display: flex; justify-content: center; gap: 10px; margin-top: 80px;">
-  <a href="student-login.html" style="text-decoration: none;">
-    <button style="
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 60px;
+">
+  <style>
+    .login-button {
       padding: 6px 14px;
-      background-color: #0f696b;
-      color: white;
-      border: none;
+      background-color: transparent;
+      color: #0f696b;
+      border: 1px solid #0f696b;
       border-radius: 6px;
       font-size: 14px;
       cursor: pointer;
-    ">Student Login</button>
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    .login-button:hover {
+      background-color: #0f696b;
+      color: white;
+    }
+
+    @media (max-width: 480px) {
+      .login-buttons {
+        flex-direction: column !important;
+        align-items: center;
+      }
+    }
+  </style>
+
+  <a href="student-login.html" style="text-decoration: none;">
+    <button class="login-button">
+      <i class="fas fa-user-graduate"></i> Student Login
+    </button>
   </a>
 
   <a href="faculty-login.html" style="text-decoration: none;">
-    <button style="
-      padding: 6px 14px;
-      background-color: #0f696b;
-      color: white;
-      border: none;
-      border-radius: 6px;
-      font-size: 14px;
-      cursor: pointer;
-    ">Faculty Login</button>
+    <button class="login-button">
+      <i class="fas fa-chalkboard-teacher"></i> Faculty Login
+    </button>
   </a>
 
   <a href="admin-login.html" style="text-decoration: none;">
-    <button style="
-      padding: 6px 14px;
-      background-color: #0f696b;
-      color: white;
-      border: none;
-      border-radius: 6px;
-      font-size: 14px;
-      cursor: pointer;
-    ">Admin Login</button>
+    <button class="login-button">
+      <i class="fas fa-user-shield"></i> Admin Login
+    </button>
   </a>
 </div>
-
 
 
                  
