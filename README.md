@@ -2,7 +2,7 @@
 ### Welcome to the new official website project of GPC Shivpuri. 
 
 
-We are now live as [official institute website](http://itx-me-king.github.io/polyshivpuri).
+We are now live as [official institute website](http://huntwter.github.io/polyshivpuri).
 
 
 
@@ -45,4 +45,5 @@ We are now live as [official institute website](http://itx-me-king.github.io/pol
 
 
 #### Thanks.
-
+### License
+This Project is licensed under MIT License
