@@ -4,7 +4,8 @@
 
 We are now live as [official institute website](http://Polyshivpuri.onrender
 com/).
-
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Polyshivpuri;Made+by+Huntwter)](https://git.io/typing-svg)
 
 ---
 
