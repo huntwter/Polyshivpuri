@@ -1,11 +1,12 @@
 # Polytechnic College Shivpuri Website
 ### Welcome to the new official website project of GPC Shivpuri. 
+---
+
+We are now live as [official institute website](http://Polyshivpuri.onrender
+com/).
 
 
-We are now live as [official institute website](http://huntwter.github.io/polyshivpuri).
-
-
-
+---
 
 #### Navigation Scheme
 * Institute
@@ -42,8 +43,12 @@ We are now live as [official institute website](http://huntwter.github.io/polysh
     * Library
 * Career
 * Photo Gallery
+---
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=huntwter/Polyshivpuri&type=date&legend=top-left)](https://www.star-history.com/#huntwter/Polyshivpuri&type=date&legend=top-left)
+---
 
-#### Thanks.
 ### License
 This Project is licensed under MIT License
+---
