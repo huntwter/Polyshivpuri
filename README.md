@@ -31,8 +31,7 @@
 
   <br /><br />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2962FF&center=true&vCenter=true&width=500&lines=Welcome+to+Polyshivpuri;Official+Portal+of+GPC+Shivpuri;Academic+Excellence+Redefined;Built+by+Huntwter)](https://git.io/typing-svg)
-
+  [![Typing SVG](https: //readme-typing-svg .herokuapp.com?font= Fira+Code&size=40&pause =1000&color=000000 &center=true&vCenter= true&width=435&lines= Polyshivpuri;Made+by+Hun twter)](https://git.io/typing -svg)
 </div>
 
 ---
