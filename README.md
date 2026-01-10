@@ -101,10 +101,7 @@ Resources
  └── Library
 
 Career  
-Photo Gallery
-
-
-```markdown
+Photo Gallery ```
 
 ---
 
