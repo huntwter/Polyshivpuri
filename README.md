@@ -10,10 +10,11 @@ Institute Website For Government Polytechnic College Shivpuri
   <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Maintained-Yes-1DE9B6?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 ---
 
 We are now live as  
-![official institute website](http://polyshivpuri.onrender.com/) !
+![official institute website](http://polyshivpuri.onrender.com/)!
 
 ---
 
@@ -75,7 +76,8 @@ Resources
  └── Library
 
 Career  
-Photo Gallery```
+Photo Gallery ```
+
 ---
 ## Screenshot Showcase
 
