@@ -34,7 +34,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Polyshivpuri;Made+by+Huntwter#gh-light-mode-only)](https://git.io/typing-svg)
 </div>
 
-[![Huntwter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntwter&show_icons=true&theme=radical&hide_border=true)](https://github.com/huntwter)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Huntwter)](https://git.io/streak-stats)
 
 ---
 
