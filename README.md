@@ -101,7 +101,9 @@ Resources
  └── Library
 
 Career  
-Photo Gallery ```
+Photo Gallery
+
+ ```
 
 ---
 
