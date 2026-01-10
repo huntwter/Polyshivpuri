@@ -76,7 +76,7 @@ Resources
  └── Library
 
 Career  
-Photo Gallery ```
+Photo Gallery text```
 
 ---
 ## Screenshot Showcase
