@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=200&section=header&text=Polyshivpuri&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Gateway%20to%20Excellence&descAlignY=55&descSize=20" width="100%" alt="Polyshivpuri Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=200&section=header&text=Polyshivpuri&fontSize=80&animation=fadeIn&fontAlignY=35&" width="100%" alt="Polyshivpuri Banner" />
 
   <br />
 
