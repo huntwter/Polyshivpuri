@@ -4,14 +4,12 @@ Institute Website For Government Polytechnic College Shivpuri
 
 ---
 
-<!-- SVG Animated + Dark Mode Optimized Badges -->
 <p align="center">
-  <img src="https://svg-badge.vercel.app/api?label=Status&value=Live&color=00C853&animate=true" />
-  <img src="https://svg-badge.vercel.app/api?label=Tech&value=HTML%20%7C%20CSS%20%7C%20JavaScript&color=2962FF&animate=true" />
-  <img src="https://svg-badge.vercel.app/api?label=License&value=MIT&color=000000&animate=true" />
-  <img src="https://svg-badge.vercel.app/api?label=Maintained&value=Yes&color=1DE9B6&animate=true" />
+  <img src="https://img.shields.io/badge/Status-Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-2962FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-1DE9B6?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 ---
 
 We are now live as  
