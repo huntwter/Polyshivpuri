@@ -141,7 +141,8 @@ Photo Gallery
 
 This Project is licensed under the **MIT License**.
 
-![MIT License](./license)
+
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" />
 
 ---
 
